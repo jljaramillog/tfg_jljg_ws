@@ -128,6 +128,6 @@ ros2 launch tfg_jljg_completo sistema.launch.py
 ## Autor
 
 José Luis Jaramillo Gago  
-Grado en Ingeniería Electrónica Robótica y Mecatrónica
+Grado en Ingeniería Electrónica Robótica y Mecatrónica  
 Escuela de Ingenierías Industriales – Universidad de Málaga  
 Email: jljaramillog@uma.es
